@@ -1,3 +1,3 @@
 # shopping-list
 
-Page preview:
+Page preview: https://martawero.github.io/shopping-list/setup/
