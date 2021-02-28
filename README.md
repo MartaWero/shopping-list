@@ -1,3 +1,3 @@
 # shopping-list
 
-Podgląd strony: https://martawero.github.io/shopping-list/setup/
+Podgląd strony: <a href="https://martawero.github.io/shopping-list/setup/">Podgląd</a>
