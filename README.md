@@ -1,3 +1,8 @@
 # shopping-list
 
-Podgląd strony: <a href="https://martawero.github.io/shopping-list/setup/">Prewiev</a>
+<a href="https://martawero.github.io/shopping-list/setup/">Prewiev link</a>
+
+<h4>Tools/Technologies:</h3>
+HTML5<br>
+CSS3<br>
+JavaScript
